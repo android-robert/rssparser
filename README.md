@@ -12,7 +12,7 @@ allprojects {
 .....
 
 }
-
+```
 #Step 2. Add the dependency
 
 ``` groovy
@@ -21,4 +21,5 @@ dependencies {
   .....
 }
 ```
+
 #Step 3. Reload Grade Project and Enjoy!
