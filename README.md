@@ -1,4 +1,4 @@
-# rssparser
+# Rss Parser for Android library
 To import 'Parse a RSS Feed' lib into your build:
 
 # Step 1. Add the JitPack repository to your build file
