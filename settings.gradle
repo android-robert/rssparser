@@ -1,3 +1,0 @@
-include ':app'
-include ':library_rsspaser'
-project(':library_rsspaser').projectDir = new File('RssParser')

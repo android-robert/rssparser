@@ -1,7 +1,0 @@
-<resources>
-
-    <style name="SelectableBackground">
-        <item name="android:foreground">?android:attr/selectableItemBackground</item>
-    </style>
-
-</resources>
