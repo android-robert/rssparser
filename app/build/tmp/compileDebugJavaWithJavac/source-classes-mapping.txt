@@ -1,0 +1,14 @@
+com/robert/rssparsersample/MainActivity.java
+ com.robert.rssparsersample.MainActivity
+com/robert/rssparsersample/RssItemsAdapter.java
+ com.robert.rssparsersample.RssItemsAdapter
+ com.robert.rssparsersample.RssItemsAdapter$1
+ com.robert.rssparsersample.RssItemsAdapter$OnItemClickListener
+ com.robert.rssparsersample.RssItemsAdapter$ViewHolder
+com/robert/rssparsersample/RssService.java
+ com.robert.rssparsersample.RssService
+com/robert/rssparsersample/BuildConfig.java
+ com.robert.rssparsersample.BuildConfig
+com/robert/rssparsersample/RssFragment.java
+ com.robert.rssparsersample.RssFragment
+ com.robert.rssparsersample.RssFragment$1

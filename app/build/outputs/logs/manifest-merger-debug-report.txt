@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [:library_rsspaser] /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/RssParser/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f7827c173aa03dfb221b6028afe98798/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a4bf7842722ec4460f5546066eab47a3/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/4f9c7f78c15bb692cf0895b881aafbad/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ad3d8f42d7f49b03a399f080d09c62df/recyclerview-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/15d53baba00ef242e470b83c748b0a16/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/fa481875273e78e46430da9daa0f5609/jetified-butterknife-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/e9a886a277d45e4611014a26e73477d0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/acae1e105c30239f5f4e5e919eb23c10/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/724e64bbbda69e83bb5ddf869c10ccf5/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/db13f4206e2f54632e118b2bf50b9dd3/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a87aa8df0dfa398860fddf76d9d19160/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8a338226b496967f0d093bd2fec348ba/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a0469009743f684c93af6dfe9b48f576/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/377a0a67689e5641680dc404d773bb6a/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/d4569e3efa23eb515ce876e904449af0/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/907d9e6d9aac9b89ad1e9549bdefc10b/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/6074003f18a86654fe25e7f960919617/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f7827c173aa03dfb221b6028afe98798/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f7827c173aa03dfb221b6028afe98798/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a4bf7842722ec4460f5546066eab47a3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a4bf7842722ec4460f5546066eab47a3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/d4569e3efa23eb515ce876e904449af0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/d4569e3efa23eb515ce876e904449af0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.robert.rssparsersample.MainActivity
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:17:13-42
+	android:name
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+MERGED from [:library_rsspaser] /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/RssParser/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:library_rsspaser] /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/RssParser/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f7827c173aa03dfb221b6028afe98798/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f7827c173aa03dfb221b6028afe98798/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a4bf7842722ec4460f5546066eab47a3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a4bf7842722ec4460f5546066eab47a3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/4f9c7f78c15bb692cf0895b881aafbad/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/4f9c7f78c15bb692cf0895b881aafbad/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ad3d8f42d7f49b03a399f080d09c62df/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ad3d8f42d7f49b03a399f080d09c62df/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/f52122426ed85128097908a2e58f6328/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/15d53baba00ef242e470b83c748b0a16/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/15d53baba00ef242e470b83c748b0a16/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/fa481875273e78e46430da9daa0f5609/jetified-butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/fa481875273e78e46430da9daa0f5609/jetified-butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/e9a886a277d45e4611014a26e73477d0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/e9a886a277d45e4611014a26e73477d0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/acae1e105c30239f5f4e5e919eb23c10/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/acae1e105c30239f5f4e5e919eb23c10/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/724e64bbbda69e83bb5ddf869c10ccf5/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/724e64bbbda69e83bb5ddf869c10ccf5/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/43d28a6cb6aa3ef105d8e111681e9af4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1296f14384128f2399538597cc1f5274/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a8ecbda6ffad5e6f54ae110042f6865e/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/db13f4206e2f54632e118b2bf50b9dd3/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/db13f4206e2f54632e118b2bf50b9dd3/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a87aa8df0dfa398860fddf76d9d19160/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a87aa8df0dfa398860fddf76d9d19160/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8a338226b496967f0d093bd2fec348ba/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8a338226b496967f0d093bd2fec348ba/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/41b8d659a9b5777956384975cf9ebd42/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a0469009743f684c93af6dfe9b48f576/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a0469009743f684c93af6dfe9b48f576/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/377a0a67689e5641680dc404d773bb6a/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/377a0a67689e5641680dc404d773bb6a/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/ac6a4373db31c761b96c2d467c311f0a/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/d4569e3efa23eb515ce876e904449af0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/d4569e3efa23eb515ce876e904449af0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e3f3d50d38e11decf1394c1c71b0fc7/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/3e0dd008a853f1a70d3d0f68ab22c9b7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/907d9e6d9aac9b89ad1e9549bdefc10b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/907d9e6d9aac9b89ad1e9549bdefc10b/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/bf72a15a3ccfe7bc47129422d9cddb0c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/6074003f18a86654fe25e7f960919617/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hoangvanduc/.gradle/caches/transforms-2/files-2.1/6074003f18a86654fe25e7f960919617/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hoangvanduc/Work/Projects/Demo/Android/RetrofitRssParser/RetrofitRssParserJava/app/src/main/AndroidManifest.xml
