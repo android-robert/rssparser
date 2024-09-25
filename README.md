@@ -1,7 +1,7 @@
 # rssparser
 To import 'Parse a RSS Feed' lib into your build:
 
-#Step 1. Add the JitPack repository to your build file
+# Step 1. Add the JitPack repository to your build file
 ```groovy
 allprojects {
 
@@ -13,7 +13,7 @@ allprojects {
 
 }
 ```
-#Step 2. Add the dependency
+# Step 2. Add the dependency
 
 ``` groovy
 dependencies {
@@ -22,4 +22,4 @@ dependencies {
 }
 ```
 
-#Step 3. Reload Grade Project and Enjoy!
+# Step 3. Reload Grade Project and Enjoy!
