@@ -17,7 +17,7 @@ allprojects {
 
 ``` groovy
 dependencies {
-  implementation 'com.github.ios-robert:rssparser:1.0'
+  implementation 'com.github.android-robert:rssparser:1.0'
   .....
 }
 ```
